@@ -189,9 +189,3 @@ The pipeline also checks important fields such as:
 * Image-only or scanned PDFs may require OCR.
 * Very large document packages may require chunking or retrieval.
 * LLM-extracted information should be reviewed for high-stakes procurement decisions.
-
-## Deliverables
-
-* Python source code for document parsing and information extraction.
-* `README.md` with setup and execution instructions.
-* `all_bids.json` containing structured information extracted from the provided bid packages.# RFP_extractor
